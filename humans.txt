@@ -3,13 +3,14 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Pontus Lundin -- Developer -- @pontahontas
+    Tobias Lundin -- Developer -- <twitter>
 
 # THANKS
 
-    <name>
+    Mommy & Daddy
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
-    Normalize.css, jQuery, Modernizr
+    Normalize.css, jQuery, Modernizr, Moment.js, GoogleMaps API v.3
