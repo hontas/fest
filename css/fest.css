@@ -72,3 +72,23 @@ body {
     background-color: #F0F0F0;
     padding: 1em;
 }
+
+
+
+
+
+
+@media screen and (max-width: 640px) {
+    .countdown > div {
+        margin: 1em 0.2em;
+        min-width: 5em;
+        padding: 0.5em 0;
+    }
+    .countdown .timeText {
+        font-size: 0.8em;
+        text-shadow: 0 1px 1px rgba(0,0,0,.75), 0 -1px 0 rgba(255,255,255,0.2);
+    }
+    .headline {
+        font-size: 2em;
+    }
+}
