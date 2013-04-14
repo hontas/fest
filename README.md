@@ -1,7 +1,7 @@
-# [Festen](https://github.com/hontas/fest)
+# [Festen](http://hontas.github.io/fest/)
 
 Festen is a small site to give info on 30-year party of twins P & T.
-
+It's developed in gh-pages branch witch automatically is availiable via http://hontas.github.io/fest/
 
 ## To do
 
