@@ -3,7 +3,7 @@ html {
 }
 body {
     background-color: #1F050D;
-    background-image: url("img/noisy-texture.png");
+    background-image: url("../img/noisy-texture.png");
     color: #E0E0E0;
     color: rgba(224, 224, 224, 0.5);
     font-weight: bold;
