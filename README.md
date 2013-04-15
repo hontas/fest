@@ -5,9 +5,8 @@ It's developed in gh-pages branch witch automatically is availiable via http://h
 
 ## To do
 
-1. Make this page
-2. Fill it with information
-3. Share it
+1. TODO-MVC - vilken slags sprit tar jag med och hur mycket
+2. Önska låtar från 1983
 
 
 ## Features
