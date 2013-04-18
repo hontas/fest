@@ -93,4 +93,7 @@ ul {
     .headline {
         font-size: 2em;
     }
+    .row-fixed {
+        padding: 0 1em;
+    }
 }
