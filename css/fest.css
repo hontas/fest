@@ -3,13 +3,13 @@ html {
 }
 body {
     background-color: #3F252D;
-    /*background-image: url("../img/noisy-texture.png");*/
     color: #E0E0E0;
     color: rgba(224, 224, 224, 0.5);
     font-weight: bold;
     height: 100%;
     margin: 0;
     padding: 0;
+    padding-top: 2em;
 }
 
 .wrapper {
