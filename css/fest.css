@@ -94,6 +94,7 @@ ul {
         font-size: 2em;
     }
     .row-fixed {
+        font-size: 0.875em;
         padding: 0 1em;
     }
 }
